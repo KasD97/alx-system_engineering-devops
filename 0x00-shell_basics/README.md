@@ -1,1 +1,1 @@
-Display all current and hidden directory contents in a long format
+An introduction to shell commands
